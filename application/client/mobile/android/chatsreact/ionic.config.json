@@ -1,0 +1,7 @@
+{
+  "name": "chatsreact",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
